@@ -2,7 +2,7 @@
 
 Bienvenue dans ce dépôt dédié à la Documentation des Concepts de Business Analysis ! Ce projet a pour but de fournir une ressource complète et structurée pour tous ceux qui souhaitent approfondir leurs connaissances en analyse d’affaires, qu'ils soient étudiants, en stage, ou déjà dans le domaine professionnel.
 
-📝 Table des Matières
+📝 Table des Matières :
 1. Introduction à l'Analyse d'Affaires
 2. Planification de l'Analyse d'Affaires
 3. Elicitation et Collaboration
@@ -16,7 +16,7 @@ Bienvenue dans ce dépôt dédié à la Documentation des Concepts de Business A
 11. Sujets Avancés en Analyse d'Affaires
 12. Développement de Carrière en Analyse d'Affaires
     
-📖 Aperçu du Projet
+📖 Aperçu du Projet :
 Cette documentation est conçue pour explorer tous les aspects essentiels de l'analyse d'affaires, incluant les techniques de collecte et de gestion des exigences, la collaboration avec les parties prenantes, et les outils d'analyse de données. Elle est conçue pour être utilisée à la fois comme guide d'apprentissage et comme référence pratique pour les Business Analysts de tous niveaux.
 
 Chaque section est composée de guides détaillés, d'exemples concrets, et de diagrammes pour illustrer les concepts.
