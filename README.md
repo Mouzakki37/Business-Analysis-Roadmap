@@ -1,4 +1,5 @@
 📊 Documentation de Business Analysis
+
 Bienvenue dans ce dépôt dédié à la Documentation des Concepts de Business Analysis ! Ce projet a pour but de fournir une ressource complète et structurée pour tous ceux qui souhaitent approfondir leurs connaissances en analyse d’affaires, qu'ils soient étudiants, en stage, ou déjà dans le domaine professionnel.
 
 📝 Table des Matières
