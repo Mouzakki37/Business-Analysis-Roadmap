@@ -54,27 +54,27 @@ Selon le BABOK® Guide :
 
 ### Compétences et qualités d'un business analyst ###
 1. **La pensée analytiques et la résolution du problèmes**
-   -Pensée Créatrice
-   -Prise de décision
-   -Resolution de Problème
-   -La pensée Critique
+   - Pensée Créatrice
+   - Prise de décision
+   - Resolution de Problème
+   - La pensée Critique
 2. **Les caractéristiques Comportementales**
-   -Les competences interpersonnelles et consultatives.
-   -La gestion du temps et les compétences organisationnelles.
+   - Les competences interpersonnelles et consultatives.
+   - La gestion du temps et les compétences organisationnelles.
 3. **La connaissance Business**
-   -Les principes et pratiques Business 
-   -Connaissances organisationnelle
+   - Les principes et pratiques Business 
+   - Connaissances organisationnelle
 4. **Competences en Communication**
-   -Competences en communication orale et écrit
-   -La communication visuelle
-   -L'écoute Active
+   - Competences en communication orale et écrit
+   - La communication visuelle
+   - L'écoute Active
 5. **Les competences relationnelles**
-   -La conciliation, negociation et la médiation 
-   -La gestion des conflits
-   -Competences en Leadership et en management
-   -Le travail en equipe
+   - La conciliation, negociation et la médiation 
+   - La gestion des conflits
+   - Competences en Leadership et en management
+   - Le travail en equipe
 6. **Les application et logiciels**
-   -Connaissances des outils qui aide dans son activités
+   - Connaissances des outils qui aide dans son activités
 
 
 ### Domaines d'intervention
