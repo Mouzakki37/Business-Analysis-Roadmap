@@ -4,7 +4,7 @@ Guide du Business Analyst - Mon Parcours d'Auto-Formation 📚
 À propos de ce guide 🎯
 Ce guide est le fruit de mon parcours d'auto-formation au métier de Business Analyst. Il rassemble mes apprentissages, recherches et synthèses basés sur :
 
-L'étude approfondie du BABOK® Guide (Business Analysis Body of Knowledge)
+-L'étude approfondie du BABOK® Guide (Business Analysis Body of Knowledge)
 Des recherches extensives sur Internet et la littérature professionnelle
 L'analyse des meilleures pratiques du secteur
 La synthèse de différentes ressources en ligne
