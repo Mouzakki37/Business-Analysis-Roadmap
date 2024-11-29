@@ -1,5 +1,19 @@
 # Concepts Clés du Métier de Business Analyst
 
+## 🎯 Objectifs d'apprentissage
+- Comprendre la définition formelle du Business Analyst selon le BABOK
+- Identifier les responsabilités fondamentales du BA
+- Différencier le BA des autres rôles (Chef de projet, AMOA, Product Owner)
+- Maîtriser les domaines d'intervention du BA
+
+## 📑 Table des matières
+1. [Définition du Business Analyst](#définition-du-business-analyst)
+2. [Missions principales](#missions-principales)
+3. [Domaines d'intervention](#domaines-dintervention)
+4. [Position dans l'organisation](#position-dans-lorganisation)
+5. [Différences avec d'autres rôles](#différences-avec-dautres-rôles)
+
+## 📚 Contenu
 ## 1. Exigences et leurs types
 Les exigences représentent les besoins ou attentes des parties prenantes pour atteindre un objectif ou résoudre un problème. Elles se divisent en plusieurs catégories :
 
