@@ -4,15 +4,15 @@
 𝐀̀ 𝐩𝐫𝐨𝐩𝐨𝐬 𝐝𝐞 𝐜𝐞 𝐠𝐮𝐢𝐝𝐞 🎯
 Ce guide est le fruit de mon parcours d'auto-formation au métier de Business Analyst. Il rassemble mes apprentissages, recherches et synthèses basés sur :
 
--L'étude approfondie du BABOK® Guide (Business Analysis Body of Knowledge)
--Des recherches extensives sur Internet et la littérature professionnelle
--L'analyse des meilleures pratiques du secteur
--La synthèse de différentes ressources en ligne
+- L'étude approfondie du BABOK® Guide (Business Analysis Body of Knowledge)
+- Des recherches extensives sur Internet et la littérature professionnelle
+- L'analyse des meilleures pratiques du secteur
+- La synthèse de différentes ressources en ligne
 
 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐟 🚀
 L'objectif de ce guide est double :
-    -Documenter mon parcours d'apprentissage du métier de Business Analyst
-    -Partager ces connaissances avec d'autres personnes intéressées par ce domaine
+    - Documenter mon parcours d'apprentissage du métier de Business Analyst
+    - Partager ces connaissances avec d'autres personnes intéressées par ce domaine
 
 📝 𝐓𝐚𝐛𝐥𝐞 𝐝𝐞𝐬 𝐌𝐚𝐭𝐢𝐞̀𝐫𝐞𝐬 :
 1. Introduction à l'Analyse d'Affaires
@@ -67,17 +67,17 @@ Chaque section est composée de guides détaillés, d'exemples concrets, et de d
 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 𝐞𝐭 𝐑𝐞́𝐟𝐞́𝐫𝐞𝐧𝐜𝐞𝐬 📖
 Ce guide s'appuie sur plusieurs sources de référence :
 
--BABOK® Guide v3
--Articles professionnels
--Blogs spécialisés
--Retours d'expérience de Business Analysts
+- BABOK® Guide v3
+- Articles professionnels
+- Blogs spécialisés
+- Retours d'expérience de Business Analysts
 
 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 🤝
 Ce guide est en constante évolution. Vos contributions sont les bienvenues :
--Suggestions d'amélioration
--Corrections
--Partage d'expérience
--Nouvelles ressources
+- Suggestions d'amélioration
+- Corrections
+- Partage d'expérience
+- Nouvelles ressources
 
 𝐄́𝐭𝐚𝐭 𝐝𝐮 𝐏𝐫𝐨𝐣𝐞𝐭 📈
 🟢 En cours de développement actif
@@ -100,4 +100,4 @@ Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
 𝐑𝐞𝐦𝐞𝐫𝐜𝐢𝐞𝐦𝐞𝐧𝐭𝐬 🙏
 Je tiens à remercier la communauté des Business Analysts qui partage généreusement leurs connaissances en ligne, ainsi que tous ceux qui contribuent à enrichir ce guide.
 
-Dernière mise à jour : 25/11/2024
+Dernière mise à jour : 30/11/2024

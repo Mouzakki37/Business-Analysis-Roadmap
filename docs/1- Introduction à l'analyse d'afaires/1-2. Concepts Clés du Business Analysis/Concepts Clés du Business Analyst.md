@@ -7,11 +7,11 @@
 - Maîtriser les domaines d'intervention du BA
 
 ## 📑 Table des matières
-1. [Définition du Business Analyst](#définition-du-business-analyst)
-2. [Missions principales](#missions-principales)
-3. [Domaines d'intervention](#domaines-dintervention)
-4. [Position dans l'organisation](#position-dans-lorganisation)
-5. [Différences avec d'autres rôles](#différences-avec-dautres-rôles)
+1. [Exigences et leurs types](#Exigences-et-leurs-types)
+2. [Parties Prenantes](#Parties-Prenantes)
+3. [Processus Métiers](#Processus-Métiers)
+4. [Solution](#Solution)
+5. [Documentation](#Documentation)
 
 ## 📚 Contenu
 ## 1. Exigences et leurs types
