@@ -7,7 +7,7 @@
 - Maîtriser les domaines d'intervention du BA
 
 ## 📑 Table des matières
-1. [Exigences et leurs types](#Exigences-et-leurs-types)
+1. [Exigences et leurs types](#exigences-et-leurs-types)
 2. [Parties Prenantes](#Parties-Prenantes)
 3. [Processus Métiers](#Processus-Métiers)
 4. [Solution](#Solution)
