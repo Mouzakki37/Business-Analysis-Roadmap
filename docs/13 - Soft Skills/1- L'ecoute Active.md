@@ -1,4 +1,4 @@
-# 🛠 Soft Skill : Jour 1 : L'Écoute Active 
+# 🛠 Soft Skill : 1 : L'Écoute Active 
 
 ## 🎯 Pourquoi c'est important ?  
 
